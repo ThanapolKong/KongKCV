@@ -125,6 +125,12 @@ section {
 	/* height: 98px; */
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 
 /* ===== Begin text colors ===== */
 .text-main { color: #363940; } /* Theme main color */
